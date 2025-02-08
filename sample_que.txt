@@ -1,0 +1,15 @@
+Cortex_search
+Cardiology_Medical_Insights_and_Overview.pdf/Cardiology               -  Explain Cardiology
+Gastroenterology_Comprehensive_Overview.pdf/Gastroenterology          -  explain Gastroenterology
+Hematology_Comprehensive_Overview.pdf/Hematology                      -  explain hematology
+Radiology_Comprehensive_Overview.pdf/Radiology                        -  radiology
+Nephrology_Comprehensive_Overview.pdf                                 -  explain Nephrology
+Oncology_Comprehensive_Overview.pdf                                   -  explain  Oncology
+
+Cortex_analyst
+Count customers grouped by their sign-up date?
+Retrieve all customer IDs who signed up before 11/01/24?
+Count the total number of orders in the ORDERFACT table?
+Group orders by their date (ORDERDATE) and calculate the total orders placed on each date?
+Retrieve all transactions with an amount of 300.0?
+Search for revenue details where customerid is 5094639?
